@@ -1,0 +1,1 @@
+Creating a simple Al agent involves utilizing auto prompting and database operations to streamline user interactions. This demonstration showcases how the agent fetches real-time weather data effectively.
